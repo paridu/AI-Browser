@@ -1,0 +1,7 @@
+{
+  "name": "Astra AI Browser",
+  "description": "A next-generation open-source AI browser with multi-agent research capabilities and a cognitive memory system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
